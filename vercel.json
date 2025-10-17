@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/sitemap.xml",
-      "destination": "https://nannandiary-sitemap.vercel.app/sitemap.xml",
+      "destination": "https://pandawriting-sitemap.vercel.app/sitemap.xml",
       "permanent": true
     }
   ]

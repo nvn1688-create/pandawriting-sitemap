@@ -1,0 +1,5 @@
+<!doctype html>
+<html>
+  <head><title>PandaWriting Sitemap</title></head>
+  <body><h2>This project hosts the sitemap.xml for PandaWriting.net</h2></body>
+</html>
